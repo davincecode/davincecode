@@ -10,14 +10,18 @@ Here are some ideas to get you started:
 ![html5](https://bit.ly/3pV7WWr)![css3](https://bit.ly/3eRluMj)![boostrap](https://bit.ly/3njK90X)![jquery](https://bit.ly/3HDvkha)![github](https://bit.ly/3pTTUUX)
 ![git](https://bit.ly/3eOyPFn)
 
+
 - 🔭 I’m currently working on websites for clients.
 
+
 - 💻 Have a look at my Portfolio for more details.
+
 
 * Project I - Gatsby with React, Node, GraphQL
 * Project II - MERN Stack 
 * Project III - Database MySql
 * Project IV - HTML, CSS, Javascript, React Native
+
 
 
 - ⚡ Fun fact: ...
