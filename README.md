@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **davincecode/davincecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +20,6 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: ...
--->
 
 I am a fine art wedding photographer and cinematographer.
 I love selling and setting up websites for my clients.
