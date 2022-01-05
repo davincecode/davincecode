@@ -1,6 +1,10 @@
-### Hi there 👋
+Hi there 👋
 
-**davincecode/davincecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Thanks for stopping by!
+
+I'm Vince, a full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. 
+
 
 Here are some ideas to get you started:
 
