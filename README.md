@@ -27,4 +27,4 @@ I love selling and setting up websites for my clients.
 I am an electrician during daytime.
 
 
-Please feel free to reach me out on Twitter or sagarbarapatre.me@gmail.com. Thank you so much for reading. 
+Please feel free to reach me out at info@vincentybanez.com. Thank you so much for reading. 
