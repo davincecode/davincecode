@@ -1,9 +1,11 @@
-Hi there 👋🙋‍♂
+Hi there 🙈🙉
+
 
 
 Thanks for stopping by!
 
 I'm Vince, a full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. 
+
 
 
 About ME:
@@ -32,9 +34,11 @@ About ME:
 
 😜 Fun fact:
 
+
 I am a fine art wedding photographer and cinematographer.
 I love selling and setting up websites for my clients.
 I am an electrician during daytime.
+
 
 
 Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. 
