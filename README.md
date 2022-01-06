@@ -15,7 +15,7 @@ About ME:
 
 ![javascript](https://bit.ly/32THR1f)![NodeJS](https://bit.ly/3ztcHtB)![expressjs](https://bit.ly/3n0QrSL)![react](https://bit.ly/3t3tP7Y)
 ![html5](https://bit.ly/3pV7WWr)![css3](https://bit.ly/3eRluMj)![boostrap](https://bit.ly/3njK90X)![jquery](https://bit.ly/3HDvkha)![github](https://bit.ly/3pTTUUX)
-![git](https://bit.ly/3eOyPFn)
+![git](https://bit.ly/3eOyPFn)![gatsby](https://bit.ly/339blYH)
 
 
 
