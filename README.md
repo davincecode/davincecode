@@ -12,30 +12,30 @@ About ME:
 
 
 🧑‍💻 I am endlessly learning these languages and tools:
-![tools](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-![tools](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-![tools](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-![tools](https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg)
-![tools](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![tools](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![tools](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg)
-![tools](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-![tools](https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg)
-![tools](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)
+![tools](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/figma/figma-icon.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg){:height="20px" width="20px"}
+![tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg){:height="20px" width="20px"}
+![tools](https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg){:height="20px" width="20px"}
+![tools](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg){:height="20px" width="20px"}
 
 
 
