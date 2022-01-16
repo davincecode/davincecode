@@ -2,16 +2,16 @@ Hi there 🙈🙉
 
 
 
-Thanks for stopping by!<br /><br /><br />
+Thanks for stopping by!<br /><br />
 
 I'm Vince, a full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. 
 
 
 
-About ME:
+About ME:<br />
 
 
-🧑‍💻 I am endlessly learning these languages and tools:
+🧑‍💻 I am endlessly learning these languages and tools:<br />
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -27,43 +27,41 @@ About ME:
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
-...still a lot more to learn!<br /><br /><br />
 
 
-Softwares:
+
+Softwares:<br />
 ![](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/AdobePremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/AdobeLightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white&style=flat)
-<br /><br /><br />
+<br />
 
 
-Currently: Student at LHL
+Currently: Student at LHL<br />
 ![](https://img.shields.io/badge/LighthouseLabs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
-<br /><br /><br />
+<br />
 
-Social Media
+Social Media<br />
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
-<br /><br /><br />
+<br />
 
 
-💻 Have a look at my Portfolio for more details.
+💻 Have a look at my Portfolio for more details.<br />
 
 https://davincecode.ca
 
-<br /><br /><br />
+<br /><br />
 
-😜 Fun fact:
+😜 Fun fact:<br />
 
 I am a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.
+<br />
 
-<br /><br /><br />
-
-Live website using Gatsby - React and Wordpress.
+Live website using Gatsby - React and Wordpress.<br />
 
 https://storygridfilms.com
-https://vincentybanez.com
+https://vincentybanez.com<br />
 
-<br /><br /><br />
 
 Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. 
