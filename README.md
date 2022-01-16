@@ -18,7 +18,7 @@ About ME:
 ![git](https://bit.ly/3eOyPFn)
 
 ![](https://img.shields.io/badge/Github-davincecode-181717?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/React-davincecode-181717?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react)
 
 
 💻 Have a look at my Portfolio for more details.
