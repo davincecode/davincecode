@@ -25,7 +25,7 @@ About ME:
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
-![](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
+![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
 
 
 ![](https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&style=flat)
