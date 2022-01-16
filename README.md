@@ -17,6 +17,12 @@ About ME:
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
+![](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat)
+
+
+
 
 ![javascript](https://bit.ly/32THR1f)![NodeJS](https://bit.ly/3ztcHtB)![expressjs](https://bit.ly/3n0QrSL)![react](https://bit.ly/3t3tP7Y)
 ![html5](https://bit.ly/3pV7WWr)![css3](https://bit.ly/3eRluMj)![boostrap](https://bit.ly/3njK90X)![jquery](https://bit.ly/3HDvkha)![github](https://bit.ly/3pTTUUX)
