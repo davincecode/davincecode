@@ -14,7 +14,7 @@ About ME:
 🧑‍💻 I am endlessly learning these languages and tools:
 
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat)
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&style=flat)
 
 ![javascript](https://bit.ly/32THR1f)![NodeJS](https://bit.ly/3ztcHtB)![expressjs](https://bit.ly/3n0QrSL)![react](https://bit.ly/3t3tP7Y)
