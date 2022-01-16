@@ -20,17 +20,24 @@ About ME:
 ![](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&style=flat)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
 
 
+![](https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white&style=flat)
 
 
-![javascript](https://bit.ly/32THR1f)![NodeJS](https://bit.ly/3ztcHtB)![expressjs](https://bit.ly/3n0QrSL)![react](https://bit.ly/3t3tP7Y)
-![html5](https://bit.ly/3pV7WWr)![css3](https://bit.ly/3eRluMj)![boostrap](https://bit.ly/3njK90X)![jquery](https://bit.ly/3HDvkha)![github](https://bit.ly/3pTTUUX)
-![git](https://bit.ly/3eOyPFn)
+![](https://img.shields.io/badge/Lighthouse Labs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
 
-![](https://img.shields.io/badge/Github-davincecode-181717?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/React-red?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/React-red?style=for-the-badge&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)
+![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
+
 
 
 💻 Have a look at my Portfolio for more details.
