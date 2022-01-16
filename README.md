@@ -4,11 +4,7 @@ Hi there 🙈🙉
 
 Thanks for stopping by!<br /><br />
 
-I'm Vince, a full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. 
-
-
-
-About ME:<br />
+I'm Vince, a full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. <br />
 
 
 🧑‍💻 I am endlessly learning these languages and tools:<br />
