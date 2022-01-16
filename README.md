@@ -29,14 +29,6 @@ About ME:<br />
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
 
 
-
-Softwares:<br />
-![](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&style=flat)
-![](https://img.shields.io/badge/AdobePremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&style=flat)
-![](https://img.shields.io/badge/AdobeLightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white&style=flat)
-<br />
-
-
 Currently: Student at LHL<br />
 ![](https://img.shields.io/badge/LighthouseLabs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
 <br />
@@ -49,9 +41,7 @@ Social Media<br />
 
 💻 Have a look at my Portfolio for more details.<br />
 
-https://davincecode.ca
-
-<br /><br />
+https://davincecode.ca<br />
 
 😜 Fun fact:<br />
 
