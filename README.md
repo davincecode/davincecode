@@ -26,15 +26,10 @@ About ME:
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
-
-
 ![](https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white&style=flat)
-
-
 ![](https://img.shields.io/badge/Lighthouse Labs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
-
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
 
