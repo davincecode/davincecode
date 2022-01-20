@@ -30,7 +30,7 @@ Currently: Student at LHL<br />
 <br />
 
 Social Media<br />
-![https://www.instagram.com/vincentybanezphoto/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)
+<a href="https://www.instagram.com/vincentybanezphoto">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)</a>
 ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)
 <br />
 
