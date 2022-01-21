@@ -49,7 +49,6 @@ I am a fine art wedding photographer and cinematographer during weekends and an 
 <br />
 
 Live website using Gatsby.
-
 https://storygridfilms.com<br />
 <p align="left">	<!-- (optional) center align -->
     <img src="https://bit.ly/3KtfesM" width="300px">
