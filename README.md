@@ -9,6 +9,7 @@ Hi there 👋<br />
 
 I'm Vince, a Full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. <br />
 
+<hr />
 
 🧑‍💻 I am endlessly learning these languages and tools:<br />
 
