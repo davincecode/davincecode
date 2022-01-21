@@ -56,7 +56,8 @@ https://storygridfilms.com<br />
 </p><br />
 
 
-Live website using wordpress and heavy wordpress template.<br />
+
+Live website using [Wordpress](https://wordpress.org/).<br />
 >This site will be updated soon.<br />
 https://vincentybanez.com<br />
 <p align="left">	<!-- (optional) center align -->
