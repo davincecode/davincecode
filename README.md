@@ -46,7 +46,7 @@ I am a fine art wedding photographer and cinematographer during weekends and an 
 
 Live website using Gatsby - React and Wordpress.<br />
 
-![alt text](https://bit.ly/3KtfesM "tooltip text")
+![alt text](https://bit.ly/3KtfesM width="20px" "page insight")
 
 
 https://storygridfilms.com<br />
