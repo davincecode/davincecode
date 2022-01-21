@@ -46,7 +46,7 @@ https://davincecode.ca<br />
 😜 Fun fact:<br />
 
 I am a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.
-<br />
+<br /><br /><hr />
 
 Live website using Gatsby.
 https://storygridfilms.com<br />
