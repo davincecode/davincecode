@@ -44,18 +44,19 @@ https://davincecode.ca<br />
 I am a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.
 <br />
 
-Live website using Gatsby - React and Wordpress.<br />
-
-
-
-<p align="left">	<!-- (optional) center align -->
-    <img src="https://bit.ly/3KtfesM" width="300px">
-</p>
-
-
+Live website using Gatsby.
 
 https://storygridfilms.com<br />
+<p align="left">	<!-- (optional) center align -->
+    <img src="https://bit.ly/3KtfesM" width="300px">
+</p><br />
+
+
+Live website using wordpress and heavy wordpress template.
 https://vincentybanez.com<br />
+<p align="left">	<!-- (optional) center align -->
+    <img src="https://bit.ly/3KtfesM" width="300px">
+</p><br />
 
 
 Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. 
