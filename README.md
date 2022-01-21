@@ -49,7 +49,7 @@ Live website using Gatsby - React and Wordpress.<br />
 
 
 <p align="left">	<!-- (optional) center align -->
-    <img src="https://bit.ly/3KtfesM" width="200px">
+    <img src="https://bit.ly/3KtfesM" width="300px">
 </p>
 
 
