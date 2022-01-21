@@ -48,7 +48,8 @@ https://davincecode.ca<br />
 I am a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.
 <br /><br /><hr />
 
-Live website using Gatsby.
+
+Live website using [Gatsby](https://www.gatsbyjs.com/).<br />
 https://storygridfilms.com<br />
 <p align="left">	<!-- (optional) center align -->
     <img src="https://bit.ly/3KtfesM" width="300px">
