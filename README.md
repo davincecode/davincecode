@@ -1,14 +1,12 @@
 ![davincecode](https://github.com/davincecode/Files-For-Archive/blob/1ed5405f29c4cbf173affdfbc8276ea889c27a05/davincecode_compressed.gif)
 
-<br />
 <p align="center">
 Coding is an art, a creative craft, a joyful thing.
-</p><br /><br />
+</p><br />
 
 <p align="center">
 Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.
 </p><br />
-
 
 <hr />
 
