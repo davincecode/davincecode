@@ -2,9 +2,11 @@
 
 <br />
 <p align="center">
-Hello! 👋 Thanks for stopping by!<br /><br />
+Hello! 👋 Thanks for stopping by!
+</p><br /><br />
 
-My name is Vince, I am a night owl. I love coding and coffee. I'm always looking to learn and grow my skill set. <br />
+<p align="center">
+My name is Vince, I am a night owl. I love coding and coffee. I'm always looking to learn and grow my skill set.
 </p><br />
 
 
