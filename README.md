@@ -1,4 +1,4 @@
-![davincecode](https://github.com/davincecode/Files-For-Archive/blob/1ed5405f29c4cbf173affdfbc8276ea889c27a05/davincecode_compressed.gif)
+![davincecode](https://github.com/davincecode/Files-For-Archive/blob/fa2c58602b605ffb8ee856e5cbe965935fc4737f/davince-github.gif)
 
 <p align="center">
 Coding is an art, a creative craft, a joyful thing.
