@@ -2,10 +2,11 @@
 
 <br />
 <p align="center">
-Hello! 👋 Thanks for stopping by!
-</p><br /><br />
+Hello! 👋 Thanks for stopping by!<br /><br />
 
-I'm Vince, a Full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. <br />
+My name is Vince, I am a night owl. I love coding and coffee. I'm always looking to learn and grow my skill set. <br />
+</p><br />
+
 
 <hr />
 
