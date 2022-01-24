@@ -1,12 +1,8 @@
-![davincecode](https://bit.ly/3KD7eFD)
-
-
-
+![davincecode](https://github.com/davincecode/Files-For-Archive/blob/1ed5405f29c4cbf173affdfbc8276ea889c27a05/davincecode_compressed.gif)
 
 <br />
 
-
-<center>Thanks for stopping by!</center><br /><br />
+==Thanks for stopping by!==<br /><br />
 
 Oh, hello! 👋 I'm Vince, a Full-Stack software developer in pursuit of my next opportunity, I am always looking to learn and grow my skill set. <br />
 
