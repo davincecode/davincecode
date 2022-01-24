@@ -1,4 +1,4 @@
-<a hfref="http://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/2f22688b4e2b511de08a7c6f7184bae3ab5750b5/davince-github-fin.gif)</a>
+![davincecode](https://github.com/davincecode/Files-For-Archive/blob/2f22688b4e2b511de08a7c6f7184bae3ab5750b5/davince-github-fin.gif)
 
 <p align="center">
 Coding is an art, a creative craft, a joyful thing.
