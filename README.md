@@ -2,11 +2,11 @@
 
 <br />
 <p align="center">
-Hello! 👋 Thanks for stopping by!
+Coding is an art, a creative craft, a joyful thing.
 </p><br /><br />
 
 <p align="center">
-My name is Vince, I am a night owl. I love coding and coffee. I'm always looking to learn and grow my skill set.
+Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.
 </p><br />
 
 
