@@ -1,16 +1,16 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/794f2277638cdf13385e72dc9886996d7244029b/davincecode.png)</a>
 
-<p align="center">
-Coding is an art, a creative craft, a joyful thing.
-</p><br />
+<h1 align="center">
+Coding is an art, a creative craft, a joyful thing.</h1>
+<br />
 
-<p align="center">
-Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.
-</p>
+
+<h2 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.</h2>
+
 
 <hr />
 
-🧑‍💻 I am endlessly learning these languages and tools:<br />
+<h3>🧑‍💻 I am endlessly learning these languages and tools:</h3><br />
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -27,7 +27,7 @@ Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Deve
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)<br />
-Backend <br />
+<h3>Backend</h3> <br />
 ![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)
@@ -39,27 +39,29 @@ Backend <br />
 
 
 
-Currently: Student at LHL<br />
+<h3>Currently: Student at LHL</h3><br />
 ![](https://img.shields.io/badge/LighthouseLabs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
 <br />
 
-Social Media<br />
+<h3>Social Media</h3><br />
 <a href="https://www.instagram.com/vincentybanezphoto">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)</a>
 <a href="https://www.linkedin.com/in/vincent-ybanez/">![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)</a>
 <br />
 
 
-💻 Have a look at my Portfolio for more details.<br />
+<h3>💻 Have a look at my Portfolio for more details.</h3><br />
 
 https://davincecode.ca<br />
 
-😜 Fun fact:<br />
+<h3>😜 Fun fact:</h3><br />
 
-I am also a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.
-<br /><br /><hr />
+<p>I am also a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.</p>
+<br />
+
+<br /><hr />
 
 
-Live website using [Gatsby](https://www.gatsbyjs.com/).<br />
+<h3>Live website using [Gatsby](https://www.gatsbyjs.com/).</h3><br />
 https://storygridfilms.com<br />
 <p align="left">	<!-- (optional) center align -->
     <img src="https://bit.ly/3KtfesM" width="300px">
@@ -67,7 +69,7 @@ https://storygridfilms.com<br />
 
 
 
-Live website using [Wordpress](https://wordpress.org/).<br />
+<h3>Live website using [Wordpress](https://wordpress.org/).</h3><br />
 >This site will be updated soon.<br />
 https://vincentybanez.com<br />
 <p align="left">	<!-- (optional) center align -->
@@ -75,4 +77,4 @@ https://vincentybanez.com<br />
 </p><br />
 
 
-Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. 
+<h5>Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. </h5>
