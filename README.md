@@ -1,14 +1,15 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/794f2277638cdf13385e72dc9886996d7244029b/davincecode.png)</a>
 
-<h1 align="center">
-*Coding is an art, a creative craft, a joyful thing.*</h1>
+<h3 align="center">
+Coding is an art, a creative craft, a joyful thing.</h3>
 <br />
 
 
-<h2 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.</h2>
+<h4 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer in progress.</h4>
 
 
-<hr />
+------
+
 
 <h3>🧑‍💻 I am endlessly learning these languages and tools:</h3><br />
 
@@ -37,6 +38,7 @@
 <br />
 
 
+------
 
 
 <h3>Currently: Student at LHL</h3><br />
@@ -49,6 +51,9 @@
 <br />
 
 
+------
+
+
 <h3>💻 Have a look at my Portfolio for more details.</h3><br />
 
 https://davincecode.ca<br />
@@ -58,7 +63,10 @@ https://davincecode.ca<br />
 <p>I am also a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.</p>
 <br />
 
-<br /><hr />
+<br />
+
+------
+
 
 
 <h3>Live website using [Gatsby](https://www.gatsbyjs.com/).</h3><br />
@@ -77,4 +85,4 @@ https://vincentybanez.com<br />
 </p><br />
 
 
-<h5>Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. </h5>
+<>Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. </>
