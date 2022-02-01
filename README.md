@@ -34,6 +34,9 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 ![](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&style=flat)
+![](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&style=flat)
+![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=flat)
 
 <br />
 
