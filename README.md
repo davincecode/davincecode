@@ -28,6 +28,7 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Adobe-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)
@@ -36,7 +37,7 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 ![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&style=flat)
-![](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=flat)
+
 
 <br />
 
