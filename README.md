@@ -1,7 +1,7 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/794f2277638cdf13385e72dc9886996d7244029b/davincecode.png)</a>
 
 <h1 align="center">
-Coding is an art, a creative craft, a joyful thing.</h1>
+*Coding is an art, a creative craft, a joyful thing.*</h1>
 <br />
 
 
