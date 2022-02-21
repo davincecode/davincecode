@@ -67,6 +67,8 @@ https://davincecode.ca<br />
 
 😜 Fun fact:<br />
 <h5>I am a fine art wedding photographer and cinematographer for 10years.</h5>
+<h5>I built my own website the way I'd like it to be.</h5>
+<h5>I sell hosting and domains as a passive income.</h5>
 <br />
 
 Live website using [Gatsby](https://www.gatsbyjs.com/).<br />
