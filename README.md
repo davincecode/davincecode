@@ -6,7 +6,7 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 
 
 <h5 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer.</h5>
-<h5 align="center">I designing a robust, flexible and good-looking layout, filled with awesome features.</h5>
+<h5 align="center">I love designing a robust, flexible and good-looking layout, filled with awesome features.</h5>
 
 
 ------
