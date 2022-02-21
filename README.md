@@ -66,7 +66,7 @@ Social Media<br />
 https://davincecode.ca<br />
 
 😜 Fun fact:<br />
-<h5>I am also a fine art wedding photographer and cinematographer during weekends and an electrician during daytime.</h5>
+<h5>I am a fine art wedding photographer and cinematographer for 10years.</h5>
 <br />
 
 Live website using [Gatsby](https://www.gatsbyjs.com/).<br />
