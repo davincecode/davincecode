@@ -49,19 +49,17 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 
 <p align="center">
 
-    💻 <h4>Have a look at my Portfolio for more details.</h4><br />
+    💻 Have a look at my Portfolio for more details.<br />
 
 https://davincecode.ca<br />
 
 😜 Fun fact:<br />
-<h5>I am a fine art wedding photographer and cinematographer for 10years.</h5>
-<h5>I built my own website the way I'd like it to be.</h5>
-<h5>I sell hosting and domains as a passive income.</h5>
+I am a fine art wedding photographer and cinematographer for 10years.
+I built my own website the way I'd like it to be.
+I sell hosting and domains as a passive income.
 <br />
 
+Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading.
 
-<h5>Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. </h5>
-
-    
 </p>
 
