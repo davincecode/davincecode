@@ -5,13 +5,14 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 <br />
 
 
-<h5 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer.</h5>
+<h4 align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer.</h4>
 
 
 ------
+<br />
 
 
-<h5>🧑‍💻 I am endlessly learning these languages and tools:</h5><br />
+<h5>🧑‍💻 I am endlessly learning these languages and tools:</h5>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -46,12 +47,15 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 <br />
 
 -----
+<br />
+
+Have a look at my Portfolio for more details. ![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-00A98F?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
+    
+
 
 <p align="center">
-
-    💻 Have a look at my Portfolio for more details. https://davincecode.ca 
-
-😜 Fun fact:<br />
+    
+Fun fact:<br />
 I am a fine art wedding photographer and cinematographer for 10years.<br />
 I built my own website the way I'd like it to be.<br />
 
