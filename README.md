@@ -45,24 +45,11 @@ Coding is an art, a creative craft, a joyful thing.</h5>
 
 <br />
 
-
-
-
-
-Currently: Student at LHL<br />
-![](https://img.shields.io/badge/LighthouseLabs-31A8FF?style=for-the-badge&logo=lighthouse&logoColor=white&style=flat)
-<br />
-
-Social Media<br />
-<a href="https://www.instagram.com/vincentybanezphoto">
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat)</a><br />
-<a href="https://www.linkedin.com/in/vincent-ybanez/">
-![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)</a>
-<br /><br />
-
 -----
 
-💻 Have a look at my Portfolio for more details.<br />
+<p align="center">
+
+    💻 <h4>Have a look at my Portfolio for more details.</h4><br />
 
 https://davincecode.ca<br />
 
@@ -72,20 +59,9 @@ https://davincecode.ca<br />
 <h5>I sell hosting and domains as a passive income.</h5>
 <br />
 
-Live website using [Gatsby](https://www.gatsbyjs.com/).<br />
-https://storygridfilms.com<br />
-<p align="left">	<!-- (optional) center align -->
-    <img src="https://bit.ly/3KtfesM" width="300px">
-</p><br />
-
-
-
-Live website using [Wordpress](https://wordpress.org/).<br />
->This site will be updated soon.<br />
-https://vincentybanez.com<br />
-<p align="left">	<!-- (optional) center align -->
-    <img src="https://bit.ly/3AmGsNg" width="300px">
-</p><br />
-
 
 <h5>Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading. </h5>
+
+    
+</p>
+
