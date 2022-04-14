@@ -66,7 +66,7 @@ One of the most satisfying aspects of the job as a developer is seeing the code 
 
 Have a look at my Portfolio for more details.
 
-<a href="http://www.davincecode.ca">![www.davincecode.ca](https://img.shields.io/badge/PORTFOLIO-WWW.DAVINCECODE.CA-00A98F?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)</a>
+<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 
 ```
