@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&style=flat)
@@ -29,9 +31,8 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Adobe-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white&style=flat)
-![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
-![](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
@@ -62,7 +63,9 @@ One of the most satisfying aspects of the job as a developer is seeing the code 
 
 Have a look at my Portfolio for more details.
 
-<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/MY_PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
+<a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/PHOTOGRAPHY-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
+<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 
 
 ```
