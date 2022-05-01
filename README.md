@@ -9,7 +9,7 @@
 <br />
 
 
-<p align="center">I am endlessly learning these languages and tools:</p>
+<p align="center">And endlessly learning these languages and tools!</p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
