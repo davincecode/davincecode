@@ -4,7 +4,7 @@
 
 Hello! My name is Vince!<br />
 
-A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful responsive web experiences focused on simplicity and function.
+A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web experiences focused on simplicity and function.
 
 
 <br />
