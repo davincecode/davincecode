@@ -1,17 +1,16 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/davincecode/blob/75b6baf0f9a04d696fcc482ac88f83ec1463bec9/davincecode_v3.png)</a>
 <br />
-```
 
-Hello! 👋 Thanks for stopping by!
 
-My name is Vince, a creative & detail-oriented, full-stack web developer 
-devoted to crafting beautiful responsive web experiences focused on simplicity and function.
+Hello! My name is Vince!<br />
 
-```
+A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful responsive web experiences focused on simplicity and function.
+
 
 <br />
 <br />
 
+>My Tech Stack<br />
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -53,13 +52,6 @@ devoted to crafting beautiful responsive web experiences focused on simplicity a
 <br />
 <br />
 
-
->One of the most satisfying aspects of the job as a developer is seeing the code you wrote deployed
->in a live system and used by actual people, especially if it improves their lives in some way. ❤️
-
-<br />
-<br />
-
 Have a look at my Portfolio for more details.
 
 <a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/MY_PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
@@ -67,12 +59,13 @@ Have a look at my Portfolio for more details.
 <a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br /><br />
 
 
-```
+
 Fun fact:
 
-I am a fine art wedding photographer and cinematographer for 10years.
-I built my own website the way I'd like it to be.
+I am a Fine Art Wedding Photographer and Cinematographer for 10years.<br />
+I sell hosting and domains. Get it here _https://sheephostingbay.com/_ <br />
+I can be on my computer for 12-14hrs a day enjoying coding and exploring.<br />
 
 Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading.
-```
+
 
