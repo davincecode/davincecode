@@ -1,15 +1,17 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/davincecode/blob/75b6baf0f9a04d696fcc482ac88f83ec1463bec9/davincecode_v3.png)</a>
 <br />
+```
 
+Hello! 👋 Thanks for stopping by!
 
-<p align="center">Hello! 👋 Thanks for stopping by! My name is Vince, I am a Full Stack Web Developer.</p>
+My name is Vince, a creative & detail-oriented, full-stack web developer 
+devoted to crafting beautiful responsive web experiences focused on simplicity and function.
 
+```
 
-------
+<br />
 <br />
 
-
-<p align="center">And endlessly learning these languages and tools!</p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -48,24 +50,21 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&style=flat)
 
-
+<br />
 <br />
 
------
 
+>One of the most satisfying aspects of the job as a developer is seeing the code you wrote deployed
+>in a live system and used by actual people, especially if it improves their lives in some way. ❤️
 
 <br />
-
->The happiness of making things that are useful to other people. 
-One of the most satisfying aspects of the job as a developer is seeing the code you wrote deployed in a live system and used by actual people, especially if it improves their lives in some way. ❤️
-
 <br />
 
 Have a look at my Portfolio for more details.
 
 <a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/MY_PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 <a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/PHOTOGRAPHY-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
+<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br /><br />
 
 
 ```
