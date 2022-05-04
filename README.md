@@ -19,6 +19,7 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
