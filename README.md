@@ -64,8 +64,8 @@ Have a look at my Portfolio for more details.
 Fun fact:
 
 I am a Fine Art Wedding Photographer and Cinematographer for 10years.<br />
+I have worked as a hydrovac operator with NO ABSENT for 5year digging wholes, eating mud, rain or shine, freezing or roasting!<br />
 I sell hosting and domains. Get it here _https://sheephostingbay.com/_ <br />
-I can be on my computer for 12-14hrs a day enjoying coding and exploring.<br />
 
 Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading.
 
