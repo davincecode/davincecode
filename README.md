@@ -17,12 +17,15 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&style=flat)
+![](https://img.shields.io/badge/wpengine-0ECAD4?style=for-the-badge&logo=wpengine&logoColor=white&style=flat)
+![](https://img.shields.io/badge/woocommerce-96588A?style=for-the-badge&logo=woo&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=flat)
@@ -33,6 +36,11 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat)
+![](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&style=flat)
+![](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white&style=flat)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&style=flat)
+![](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white&style=flat)
+![](https://img.shields.io/badge/asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Adobe-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&style=flat)
@@ -49,24 +57,31 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&style=flat)
+![](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=flat)
+![](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&style=flat)
+![](https://img.shields.io/badge/headlessui-FF9900?style=for-the-badge&logo=headlessui&logoColor=white&style=flat)
+
 
 <br />
 <br />
 
-Have a look at my Portfolio for more details.
+>Have a look at my Portfolio for more details.
 
 <a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/MY_PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 <a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/PHOTOGRAPHY-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br /><br />
+<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
+<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/ECOMMERCE-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br /><br />
 
 
 
-Fun fact:
+>Fun fact:
 
-I am a Fine Art Wedding Photographer and Cinematographer for 10years.<br />
-I have worked as a hydrovac operator with perfect attendance for 5year digging wholes, eating mud, rain or shine, freezing or roasting!<br />
-I sell hosting and domains. Get it here _https://sheephostingbay.com/_ <br />
+- Fine Art Wedding Photographer and Cinematographer for over a decade.
+- Experienced hydrovac operator, enduring challenging conditions like mud, rain, and extreme temperatures for 5 years.
+- Skilled electrician, specializing in commercial and industrial projects.
+- Now returning to software development after a while, eager to dive back into the world of coding and creating innovative software solutions.<br />
 
-Please feel free to reach me at info@vincentybanez.com. Thank you so much for reading.
+If you're interested in learning more about me, please feel free to reach me  dev@vincentybanez.com.
+<br /> Thank you so much for reading.
 
 
