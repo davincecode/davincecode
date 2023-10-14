@@ -1,4 +1,4 @@
-<a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/davincecode/blob/75b6baf0f9a04d696fcc482ac88f83ec1463bec9/davincecode_v3.png)</a>
+<a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/5a48d66cd488bf24e0ed1b6a669959f602f3ae9c/davince-github-fin.gif)</a>
 <br />
 
 
