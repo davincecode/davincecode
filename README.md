@@ -5,7 +5,6 @@
 
 A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web experiences focused on simplicity and function.
 
-<br />
 
 ### My Tech Stack
 
@@ -61,7 +60,6 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/headlessui-FF9900?style=for-the-badge&logo=headlessui&logoColor=white&style=flat)
 
-<br />
 
 ### Portfolio
 
@@ -70,7 +68,6 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 <a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 <a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/ECOMMERCE-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 
-<br />
 
 ### About Me
 
