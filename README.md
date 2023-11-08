@@ -1,6 +1,3 @@
-<a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/61d9956bc7bccddf640742289e5c8a8fec61b1d3/ninjago.gif)</a>
-<br />
-
 ### Hello! My name is Vince!
 
 A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web experiences focused on simplicity and function.
