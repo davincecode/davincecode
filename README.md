@@ -1,16 +1,13 @@
 <a href="https://davincecode.ca">![davincecode](https://github.com/davincecode/Files-For-Archive/blob/5a48d66cd488bf24e0ed1b6a669959f602f3ae9c/davince-github-fin.gif)</a>
 <br />
 
-
-Hello! My name is Vince!<br />
+### Hello! My name is Vince!
 
 A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web experiences focused on simplicity and function.
 
-
-<br />
 <br />
 
->My Tech Stack<br />
+### My Tech Stack
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -64,27 +61,28 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/headlessui-FF9900?style=for-the-badge&logo=headlessui&logoColor=white&style=flat)
 
-
-<br />
 <br />
 
->Have a look at my Portfolio for more details.
+### Portfolio
 
-<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/MY_PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
+<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/PERSONAL_SPACE-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 <a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/PHOTOGRAPHY-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 <a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/ECOMMERCE-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br /><br />
+<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/ECOMMERCE-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
 
+<br />
 
+### About Me
 
->Fun fact:
+- With over a decade of experience as a Fine Art Wedding Photographer and Cinematographer, I've cultivated an eye for detail, creativity, and the ability to bring ideas to life through visual storytelling.
+- During my five years as a hydrovac operator, I developed strong problem-solving skills, adaptability, and the tenacity to excel in challenging environments.
+- I also have a background as a skilled electrician, specializing in commercial and industrial projects, where I mastered structured problem-solving and meticulous precision.
+- With all the skills I've acquired throughout my background, I am eager to leverage these skills and my passion for creating solutions in the field of software development.
 
-- Fine Art Wedding Photographer and Cinematographer for over a decade.
-- Experienced hydrovac operator, enduring challenging conditions like mud, rain, and extreme temperatures for 5 years.
-- Skilled electrician, specializing in commercial and industrial projects.
-- Now returning to software development after a while, eager to dive back into the world of coding and creating innovative software solutions.<br />
+<br />
 
-If you're interested in learning more about me, please feel free to reach me  dev@vincentybanez.com.
-<br /> Thank you so much for reading.
+If you're interested in learning more about me, please reach me at dev@vincentybanez.com.
+
+##### Thank you so much for reading.
 
 
