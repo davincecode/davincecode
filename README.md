@@ -1,9 +1,12 @@
-### Hello! My name is Vince!
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web experiences focused on simplicity and function.
+<br clear="both">
 
+### <h1 align="center">davincecode</h1>
 
-### My Tech Stack
+<p align="center">A detail-oriented, Full-Stack Web Developer devoted to crafting beautiful web experiences focused on simplicity and function.</p>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
@@ -58,13 +61,7 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 ![](https://img.shields.io/badge/headlessui-FF9900?style=for-the-badge&logo=headlessui&logoColor=white&style=flat)
 
 
-### Portfolio
-
-<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/PERSONAL_SPACE-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/PHOTOGRAPHY-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/VIDEOGRAPHY-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/ECOMMERCE-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a><br />
-
+#
 
 ### About Me
 
@@ -73,10 +70,50 @@ A detail-oriented, _Full-Stack Web Developer_ devoted to crafting beautiful web 
 - I also have a background as a skilled electrician, specializing in commercial and industrial projects, where I mastered structured problem-solving and meticulous precision.
 - With all the skills I've acquired throughout my background, I am eager to leverage these skills and my passion for creating solutions in the field of software development.
 
-<br />
 
-If you're interested in learning more about me, please reach me at dev@vincentybanez.com.
+Stack | Portfolio | Link
+-- | ---- | ----
+NextJS | Personal Space | <a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+WP | Photography | <a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+WP | Cinematography | <a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+WP | E-commerce | <a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
-##### Thank you so much for reading.
+#
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davincecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davincecode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=davincecode&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
+</div>
+
+#
+
+<p align="center">Get in touch</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vincent-ybanez/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/vincentybanezphoto/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
+  </a>
+   <a href="mailto:vincentybanezdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://ko-fi.com/davincecode" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+</div>
+
+#
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=davincecode.davincecode&"  />
+</div>
+
 
 
