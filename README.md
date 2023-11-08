@@ -70,23 +70,14 @@
 - I also have a background as a skilled electrician, specializing in commercial and industrial projects, where I mastered structured problem-solving and meticulous precision.
 - With all the skills I've acquired throughout my background, I am eager to leverage these skills and my passion for creating solutions in the field of software development.
 
-
-Stack | Portfolio | Link
--- | ---- | ----
-NextJS | Personal Space | <a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-WP | Photography | <a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-WP | Cinematography | <a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-WP | E-commerce | <a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-
 #
 
-<br clear="both">
+### Portfolio
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davincecode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=davincecode&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
-  
-</div>
+<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/Personal-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+<a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/Photo-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/Video-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/Store-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 #
 
