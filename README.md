@@ -1,8 +1,8 @@
 <h1>Hey! Nice to see you.</h1>
 
-<br clear="both">
-
 ### I'm Vince, a Full-Stack Web Developer
+
+<br clear="both">
 
 Time spent coding:<br><!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2048%20mins-blue)
