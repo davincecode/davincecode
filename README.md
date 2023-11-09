@@ -5,7 +5,7 @@
 <br clear="both">
 
 Time spent coding:<br><!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C920%20hrs%2048%20mins-blue)
 <!--END_SECTION:waka-->
 
 My tech stack:<br>
@@ -78,25 +78,6 @@ My tech stack:<br>
 ![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 #
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 30 September 2023
-
-Total Time: 1,437 hrs 4 mins
-
-Javascript         453 hrs 37 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.57 %
-Liquid             313 hrs 18 mins ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.80 %
-PHP                196 hrs 20 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.66 %
-Java               112 hrs 8 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.80 %
-Ruby               81 hrs 28 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.67 %
-EJS                64 hrs 29 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-[![wakatime](https://wakatime.com/badge/github/davincecode/TaggCard.svg)](https://wakatime.com/badge/github/davincecode/TaggCard)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vincent-ybanez/" target="_blank">
