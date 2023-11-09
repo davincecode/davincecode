@@ -1,13 +1,14 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1>Hey! Nice to see you.</h1>
 
 <br clear="both">
 
-### <h1 align="center">davincecode</h1>
+### I'm Vince, a Full-Stack Web Developer
 
-<p align="center">A detail-oriented, Full-Stack Web Developer devoted to crafting beautiful web experiences focused on simplicity and function.</p>
+Time spent coding:<br><!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2048%20mins-blue)
+<!--END_SECTION:waka-->
 
+My tech stack:<br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=flat)
@@ -60,28 +61,23 @@
 ![](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/headlessui-FF9900?style=for-the-badge&logo=headlessui&logoColor=white&style=flat)
 
+<br clear="both">
 
-#
-
-### About Me
+### My Journey
 
 - With over a decade of experience as a Fine Art Wedding Photographer and Cinematographer, I've cultivated an eye for detail, creativity, and the ability to bring ideas to life through visual storytelling.
 - During my five years as a hydrovac operator, I developed strong problem-solving skills, adaptability, and the tenacity to excel in challenging environments.
 - I also have a background as a skilled electrician, specializing in commercial and industrial projects, where I mastered structured problem-solving and meticulous precision.
 - With all the skills I've acquired throughout my background, I am eager to leverage these skills and my passion for creating solutions in the field of software development.
 
-#
+<br clear="both">
 
-### Portfolio
+### Personal Space
 
-<a href="https://davincecode.ca">![https://davincecode.ca](https://img.shields.io/badge/Personal-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-<a href="https://vincentybanez.com">![https://vincentybanez.com](https://img.shields.io/badge/Photo-HTTPS://VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-<a href="https://storygridfilms.com">![https://storygridfilms.com](https://img.shields.io/badge/Video-HTTPS://STORYGRIDFILMS.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
-<a href="https://thebagalert.com">![https://thebagalert.com](https://img.shields.io/badge/Store-HTTPS://THEBAGALERT.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+<a href="https://davincecode.ca">[<img align="left" height="150px" width="250px" alt="davincecode" src="https://github.com/davincecode/Files-For-Archive/blob/5434f1374e5c74fe21aad8888a28c4383a2debec/me_lol.gif"/>](https://www.davincecode.com/)<br clear="both">
+![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 #
-
-<p align="center">Get in touch</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vincent-ybanez/" target="_blank">
@@ -93,18 +89,10 @@
    <a href="mailto:vincentybanezdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://ko-fi.com/davincecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
 </div>
-
-#
 
 <br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=davincecode.davincecode&"  />
 </div>
-
-
-
