@@ -1,3 +1,5 @@
+<img src="https://github.com/davincecode/davincecode/blob/65a08b6234b0c67984a9b36ad391665bdd731d65/davincecode_v3.png" />
+
 <h1>Hey! Nice to see you.</h1>
 
 ### I'm Vince, a Full-Stack Web Developer
