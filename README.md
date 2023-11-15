@@ -78,7 +78,14 @@ My tech stack:<br>
 ![https://davincecode.ca](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 Today:
+
+
+<!--START_SECTION:waka-->
+
 [![codingtime](https://wakatime.com/badge/user/018bb2e6-bbce-4f24-b25b-5c5fc2c12829/project/018bb581-e159-49ad-9c36-b1c0c844cc9e.svg)](https://wakatime.com/badge/user/018bb2e6-bbce-4f24-b25b-5c5fc2c12829/project/018bb581-e159-49ad-9c36-b1c0c844cc9e)
+
+<!--END_SECTION:waka-->
+
 #
 
 <div align="center">
