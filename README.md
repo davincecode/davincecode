@@ -65,11 +65,11 @@ My tech stack:<br>
 Coding time in the last 7 days:<br><!--START_SECTION:waka-->
 
 ```txt
-Java             52 hrs 40 mins  █████████████░░░░░░░░░░░░   51.83 %
-PHP              23 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-XML              18 hrs 9 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-SCSS             3 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Other            1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java              61 hrs 32 mins  ███████████████░░░░░░░░░░   59.53 %
+PHP               16 hrs 51 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+XML               13 hrs 41 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+SCSS              7 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Other             1 hr 54 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
