@@ -65,11 +65,15 @@ My tech stack:<br>
 Coding time in the last 7 days:<br><!--START_SECTION:waka-->
 
 ```txt
-Java              59 hrs 18 mins  ███████████████░░░░░░░░░░   59.79 %
-PHP               14 hrs 9 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-XML               11 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-SCSS              8 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-TypeScript        2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+From: 09 November 2023 - To: 27 November 2023
+
+Total Time: 262 hrs 32 mins
+
+Java              127 hrs 9 mins  ███████████▓░░░░░░░░░░░░░   47.28 %
+PHP               67 hrs 56 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.26 %
+XML               36 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+SCSS              15 hrs 45 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Other             6 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
