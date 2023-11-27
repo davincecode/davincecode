@@ -12,6 +12,7 @@ My tech stack:<br>
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
 [![BadgeSort](https://img.shields.io/badge/BadgeSort-000000.svg?style=flat&logo=githubsponsors)](https://github.com/ChipWolf/BadgeSort)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=flat&logo=socketdotio&logoColor=white)
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=flat&logo=cypress&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
@@ -25,6 +26,7 @@ My tech stack:<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040.svg?style=flat&logo=homebrew&logoColor=black)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat&logo=amazonec2&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF9900.svg?style=flat&logo=openjdk&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C.svg?style=flat&logo=cpanel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
@@ -47,6 +49,7 @@ My tech stack:<br>
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
@@ -62,7 +65,7 @@ My tech stack:<br>
 
 <br clear="both">
 
-Coding time in the last 7 days:<br><!--START_SECTION:waka-->
+Coding Chronometer:<br><!--START_SECTION:waka-->
 
 ```txt
 From: 09 November 2023 - To: 27 November 2023
