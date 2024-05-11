@@ -65,16 +65,16 @@ My tech stack:<br>
 Coding Chronometer:<br><!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 08 May 2024
+From: 09 November 2023 - To: 09 May 2024
 
-Total Time: 1,403 hrs 14 mins
+Total Time: 1,416 hrs 43 mins
 
-TypeScript           582 hrs 36 mins ██████████▒░░░░░░░░░░░░░░   41.03 %
-Java                 185 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-PHP                  167 hrs 1 min   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-JavaScript           121 hrs 53 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-SCSS                 83 hrs 11 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-CSS                  69 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+TypeScript           583 hrs 3 mins  ██████████▒░░░░░░░░░░░░░░   40.67 %
+Java                 185 hrs 16 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+PHP                  174 hrs 4 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+JavaScript           122 hrs 32 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+SCSS                 88 hrs 13 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+CSS                  69 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
 ```
 
 <!--END_SECTION:waka-->
