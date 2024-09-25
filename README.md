@@ -65,7 +65,7 @@ My tech stack:<br>
 Coding Chronometer:<br><!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 22 September 2024
+From: 09 November 2023 - To: 23 September 2024
 
 Total Time: 2,018 hrs 13 mins
 
