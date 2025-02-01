@@ -25,7 +25,6 @@ My tech stack:<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=flat&logo=typescript&logoColor=black)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040.svg?style=flat&logo=homebrew&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=flat&logo=amazonec2&logoColor=white)
