@@ -6,15 +6,6 @@
 
 My tech stack:<br>
 <!-- start chipwolf/badgesort techstack -->
-![cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white)
-![asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=flat&logo=asana&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=firebase&logoColor=white)
-![androidstudio](https://img.shields.io/badge/Android_Studio-34A853.svg?style=flat&logo=androidstudio&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/VueJS-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=intellijidea&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/ChakraUI-319795.svg?style=flat&logo=chakraui&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Openai-000000.svg?style=flat&logo=openai&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=flat&logo=ionic&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
