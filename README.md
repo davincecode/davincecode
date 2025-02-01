@@ -88,19 +88,8 @@ CSS                   104 hrs 50 mins █░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### My Journey
+#### Learn more about me? <a href="https://dev.vincentybanez.com">ASK VINCE</a>
 
-- With over a decade of experience as a Fine Art Wedding Photographer and Cinematographer, I've cultivated an eye for detail, creativity, and the ability to bring ideas to life through visual storytelling.
-- During my five years as a hydrovac operator, I developed strong problem-solving skills, adaptability, and the tenacity to excel in challenging environments.
-- I also have a background as a skilled electrician, specializing in commercial and industrial projects, where I mastered structured problem-solving and meticulous precision.
-- With all the skills I've acquired throughout my background, I am eager to leverage these skills and my passion for creating solutions in the field of software development.
-
-<br clear="both">
-
-### Personal Space
-
-<a href="https://dev.vincentybanez.com">[<img align="left" height="150px" width="250px" alt="davincecode" src="https://github.com/davincecode/Files-For-Archive/blob/5434f1374e5c74fe21aad8888a28c4383a2debec/me_lol.gif"/>](https://dev.vincentybanez.com/)<br clear="both">
-![https://dev.vincentybanez.com](https://img.shields.io/badge/HTTPS://-DEV.VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 #
 
