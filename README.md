@@ -91,7 +91,7 @@ CSS                   104 hrs 50 mins █░░░░░░░░░░░░░
 ### Personal Space
 
 <a href="https://dev.vincentybanez.com">[<img align="left" height="150px" width="250px" alt="davincecode" src="https://github.com/davincecode/Files-For-Archive/blob/5434f1374e5c74fe21aad8888a28c4383a2debec/me_lol.gif"/>](https://www.davincecode.ca/)<br clear="both">
-![https://dev.vincentybanez.com](https://img.shields.io/badge/PORTFOLIO-HTTPS://DAVINCECODE.CA-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
+![https://dev.vincentybanez.com](https://img.shields.io/badge/HTTPS://-DEV.VINCENTYBANEZ.COM-00A98F?style=for-the-badge&logo=react&logoColor=white&style=flat)</a>
 
 #
 
