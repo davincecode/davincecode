@@ -33,6 +33,8 @@ jobs:
             rubyonrails,react,ruby,sass,shopify,socketdotio
             sqlite,storybook,tailwindcss,vercel,vite
             visualstudiocode,woocommerce,wordpress,wpengine
+            cloudflare,firebase,androidstudio,vuedotjs
+            intellijidea,chakraui,openai,ionic,badgeSort,socket.io
       - name: Commit and push
         uses: EndBug/add-and-commit@1bad3abcf0d6ec49a5857d124b0bfb52dc7bb081 # v9
         with:
