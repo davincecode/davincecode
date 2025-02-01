@@ -55,6 +55,7 @@ My tech stack:<br>
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=flat&logo=ionic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=jira&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
