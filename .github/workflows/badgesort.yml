@@ -22,18 +22,19 @@ jobs:
           output: README.md
           style: flat
           slugs: |
-            adobe,amazonaws,amazonec2,asana,bootstrap
-            chai,cpanel,css3,cypress,eclipseide
-            express,figma,gatsby,git,github
-            gitlab,google,graphql,headlessui,heroku
-            homebrew,html5,javascript,jira,jquery
-            mocha,mongodb,mysql,netlify,nextdotjs
-            nodedotjs,notion,npm,php,postgresql,prisma
-            rubyonrails,react,ruby,sass,shopify,socketdotio
-            sqlite,storybook,tailwindcss,vercel,vite
-            visualstudiocode,woocommerce,wordpress,wpengine
-            cloudflare,firebase,androidstudio,vuedotjs
-            intellijidea,chakraui,openai,ionic, typescript
+            adobe,amazonaws,amazonec2,asana,bootstrap,
+            chai,cpanel,css3,cypress,eclipseide,
+            express,figma,gatsby,git,github,
+            gitlab,google,graphql,headlessui,heroku,
+            homebrew,html5,javascript,jira,jquery,
+            mocha,mongodb,mysql,netlify,nextdotjs,
+            nodedotjs,notion,npm,php,postgresql,prisma,
+            rubyonrails,react,ruby,sass,shopify,socketdotio,
+            sqlite,storybook,tailwindcss,vercel,vite,
+            visualstudiocode,woocommerce,wordpress,wpengine,
+            cloudflare,firebase,androidstudio,vuedotjs,
+            intellijidea,chakraui,openai,ionic,typescript,
+            squarespace,codewars,prettier,basecamp
       - name: Commit and push
         uses: EndBug/add-and-commit@1bad3abcf0d6ec49a5857d124b0bfb52dc7bb081 # v9
         with:
