@@ -1,11 +1,15 @@
-<h1>Hey! Nice to see you.</h1>
+# Hey there! 👋
 
-### I'm Vince, a Software Developer
+### I'm Vince, a Software Developer.
 
 <br clear="both">
 
-My tech stack:<br>
+#### My tech stack:<br>
 <!-- start chipwolf/badgesort techstack -->
+![basecamp](https://img.shields.io/badge/Basecamp-1D2D35.svg?style=flat&logo=basecamp&logoColor=white)
+![prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat&logo=prettier&logoColor=white)
+![codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=flat&logo=codewars&logoColor=white)
+![squarespace](https://img.shields.io/badge/Squarespace-000000.svg?style=flat&logo=squarespace&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=notion&logoColor=white)
@@ -71,7 +75,8 @@ My tech stack:<br>
 
 <br clear="both">
 
-Coding Chronometer:<br><!--START_SECTION:waka-->
+#### Updates:<br>
+<!--START_SECTION:waka-->
 
 ```txt
 From: 09 November 2023 - To: 30 January 2025
@@ -88,7 +93,7 @@ CSS                   104 hrs 50 mins █░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Learn more about me? <a href="https://dev.vincentybanez.com">ASK VINCE</a>
+#### Learn more about me: <a href="https://dev.vincentybanez.com">ASK VINCE</a>
 
 
 #
