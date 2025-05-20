@@ -79,7 +79,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 18 May 2025
+Weekly Average
 
 Total Time: 3,579 hrs 54 mins
 
