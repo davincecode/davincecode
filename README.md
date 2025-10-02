@@ -79,16 +79,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 29 September 2025
+From: 09 November 2023 - To: 30 September 2025
 
-Total Time: 4,116 hrs 3 mins
+Total Time: 4,129 hrs 17 mins
 
-TypeScript            1,899 hrs 34 mins███████████▓░░░░░░░░░░░░░   46.15 %
-PHP                   460 hrs 37 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-JavaScript            455 hrs 26 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-SCSS                  389 hrs 6 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Java                  185 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JSON                  147 hrs 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+TypeScript            1,912 hrs 6 mins███████████▓░░░░░░░░░░░░░   46.31 %
+PHP                   460 hrs 37 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+JavaScript            455 hrs 46 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+SCSS                  389 hrs 6 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Java                  185 hrs 16 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+JSON                  147 hrs 47 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
