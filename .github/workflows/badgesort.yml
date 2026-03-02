@@ -34,7 +34,10 @@ jobs:
             visualstudiocode,woocommerce,wordpress,wpengine,
             cloudflare,firebase,androidstudio,vuedotjs,
             intellijidea,chakraui,openai,ionic,typescript,
-            squarespace,codewars,prettier,basecamp
+            squarespace,codewars,prettier,basecamp,
+            railway,githubactions,appstore,googleplay,googlecloud,
+            anthropic,perplexity,xai,googlegemini,
+            insomnia,postman,buttercup,affinity,filezilla,localwp
       - name: Commit and push
         uses: EndBug/add-and-commit@1bad3abcf0d6ec49a5857d124b0bfb52dc7bb081 # v9
         with:

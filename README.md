@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### I'm Vince, a Software Developer.
+### I'm Vince, a Software Developer
 
 <br clear="both">
 
@@ -70,7 +70,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=heroku&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757.svg?style=flat&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=flat&logo=perplexity&logoColor=white)
+![xAI Grok](https://img.shields.io/badge/xAI%20Grok-000000.svg?style=flat&logo=xai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=flat&logo=googlegemini&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=flat&logo=gatsby&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?style=flat&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF.svg?style=flat&logo=githubactions&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App%20Store%20Connect-0D96F6.svg?style=flat&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141.svg?style=flat&logo=googleplay&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Buttercup](https://img.shields.io/badge/Buttercup-EFCA35.svg?style=flat&logo=buttercup&logoColor=black)
+![Affinity](https://img.shields.io/badge/Affinity-1B72BE.svg?style=flat&logo=affinity&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=flat&logo=filezilla&logoColor=white)
+![LocalWP](https://img.shields.io/badge/LocalWP-51BB7B.svg?style=flat&logo=localwp&logoColor=white)
 <!-- end chipwolf/badgesort techstack -->
 
 <br clear="both">
@@ -79,8 +94,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 28 February 2026
-
 Total Time: 5,506 hrs 59 mins
 
 TypeScript                                  ██████████▒░░░░░░░░░░░░░░   41.69 %
@@ -97,8 +110,7 @@ HTML                                        ▒░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Learn more about me: <a href="https://dev.vincentybanez.com">ASK VINCE</a>
-
+#### Learn more about me: <a href="https://dev.vincentybanez.com">My Portfolio</a>
 
 #
 
