@@ -95,11 +95,11 @@ I build software, web & mobile products across the full stack — from headless 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6,732 hrs 56 mins
+Total Time: 6,733 hrs 22 mins
 
-TypeScript                                  ██████████▒░░░░░░░░░░░░░░   41.64 %
+TypeScript                                  ██████████▒░░░░░░░░░░░░░░   41.63 %
 JavaScript                                  ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-PHP                                         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+PHP                                         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
 SCSS                                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 Markdown                                    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 JSON                                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
